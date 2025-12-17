@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Anggger Dwi Prasetia. Iam a Full-Stack Developer | Software Engineer | 3+ Years Experience | Designer | Video Editor.
+<div size='20px'> Hi! My name is Anggger Dwi Prasetia. Iam a Full-Stack Developer | Software Engineer | 3+ Years Experience | Designer | Video Editor. <br>
   Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
